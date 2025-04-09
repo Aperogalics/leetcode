@@ -15,3 +15,4 @@
 | 10.        | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/) |[CustomerPlacingtheLargestNumberofOrders.sql](solutions%2FCustomerPlacingtheLargestNumberofOrders.sql)|
 | 11.        | [Big Countries](https://leetcode.com/problems/big-countries/description/)                                                                 |[BigCountries.sql](solutions%2FBigCountries.sql)|
 | 12.        | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/)                                   |[ClassesMoreThan5Students.sql](solutions%2FClassesMoreThan5Students.sql)|
+| 13.        | [Sales Person](https://leetcode.com/problems/sales-person/description/)                                                                   |[SalesPerson.sql](solutions%2FSalesPerson.sql)|
