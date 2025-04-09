@@ -10,3 +10,4 @@
 | 5.         | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)                                       |[DeleteDuplicateEmails.sql](solutions%2FDeleteDuplicateEmails.sql)|
 | 6.         | [Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)                                                 |[RisingTemperature.sql](solutions%2FRisingTemperature.sql)|
 | 7.         | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)                                             |[GamePlayAnalysis-I.sql](solutions%2FGamePlayAnalysis-I.sql)|
+| 8.         | [Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)                                                         |[EmployeeBonus.sql](solutions%2FEmployeeBonus.sql)|
