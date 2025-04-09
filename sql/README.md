@@ -9,3 +9,4 @@
 | 4.         | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/)                                   |[CustomersWhoNeverOrder.sql](solutions%2FCustomersWhoNeverOrder.sql)|
 | 5.         | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)                                       |[DeleteDuplicateEmails.sql](solutions%2FDeleteDuplicateEmails.sql)|
 | 6.         | [Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)                                                 |[RisingTemperature.sql](solutions%2FRisingTemperature.sql)|
+| 7.         | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)                                             |[GamePlayAnalysis-I.sql](solutions%2FGamePlayAnalysis-I.sql)|
