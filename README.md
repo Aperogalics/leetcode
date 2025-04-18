@@ -3,5 +3,7 @@ LeetCode Challenges
 Profile: https://github.com/Aperogalics
 
 
-## SQL Challenges
-Check the sql folder for the sql challenges
+| **S. No.** | **Sorting**                               | **Language** |
+|------------|-------------------------------------------|-------------|
+| 1.         | [SQL Challenges](sql/README.md)           | SQL         |
+| 2.         | [Sorting Techniques](sorting/README.md)   | Java        |
