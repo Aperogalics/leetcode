@@ -3,8 +3,6 @@ public class QuickSort {
     public static void doQuickSort(Comparable[] array) {
         if (array.length < 2) return;
         pivotAndSort(array, 0, array.length);
-        //divide
-        //merge
     }
 
     private static void pivotAndSort(Comparable[] array, int beginIndex, int endIndex) {
@@ -41,28 +39,6 @@ public class QuickSort {
         }
         array[j] = pivot;
         return j;
-    }
-
-    private static void mergeAndSort(Comparable[] array, int beginIndex, int endIndex, int midIndex) {
-        Comparable[] tempArr = new Comparable[endIndex - beginIndex];
-        int i =beginIndex, j = midIndex, k = 0;
-        while (i < midIndex && j < endIndex){
-            if (array[i].compareTo(array[j]) > 0) {
-                tempArr[k++] = array[j++];
-            } else {
-                tempArr[k++] = array[i++];
-            }
-        }
-        while (i < midIndex) {
-            tempArr[k++] = array[i++];
-        }
-        while (j < endIndex) {
-            tempArr[k++] = array[j++];
-        }
-        k = 0;
-        for (int i1 = beginIndex; i1 < beginIndex+tempArr.length; i1++) {
-            array[i1] = tempArr[k++];
-        }
     }
 
 }
